@@ -1,4 +1,4 @@
-# first-visit-ed-risk-prediction
+# First Visit Emergency Department Risk Prediction
 
 This project predicts high-frequency Emergency Department (ED) utilization among depression patients using a hybrid Decision Tree → Random Forest pipeline enriched with Social Determinants of Health (SDOH) features. Developed as part of the 2026 ASA DataFest at UCLA, the project received the Don Ylvisaker Best Insight Winner Award among 78 participating teams and over 370 student participants.
 
